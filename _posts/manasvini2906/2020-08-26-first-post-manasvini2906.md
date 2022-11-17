@@ -19,7 +19,7 @@ The **best** part about this course would be my new found appreciation for de bu
   One problem stretegy that I have now incorporated in my coding journey, is to check for which kind of error I am facing, always checking for data types and whether there is compatibility throughout the code. I have also noticed that
   when stuck in a rut while coding, taking a walk helps gain your clarity! 
   
-  
+ 
   ```
   I recently used this if else statement to gauge if the number is positive or negative
   
